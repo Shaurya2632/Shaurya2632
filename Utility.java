@@ -25,7 +25,7 @@ public class Utility{
 
         return _Calc.get(opr);
      }
-     public static Float Calc(float num1, char opr, float num2) {
+     public static float Calc(float num1, char opr, float num2) {
 
          Map<Character, Float> _Calc = new HashMap<>();
 
